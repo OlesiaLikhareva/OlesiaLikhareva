@@ -1,6 +1,6 @@
-### Hi, I'm Olesia! 🌸
+### Hi, I'm Olesia! 👩‍💻
 
-Aspiring web developer based in Boston.  
+Aspiring web developer based in Boston 🇺🇲.  
 
 🌱 Learning: HTML, CSS, JavaScript, Python  
 🖋 Goals: Build a portfolio, start freelancing, mix tech + aesthetics  
